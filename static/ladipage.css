@@ -1,0 +1,43 @@
+#HEADLINE1605 .ladi-headline {
+  text-align: center;
+}
+.list-service {
+  list-style-type: disc;
+  margin-top: 30px;
+  color: white;
+  font-size: 16px;
+  line-height: 1.5;
+  padding-left: 20px;
+}
+#HEADLINE1676 h1 {
+  font-size: 17px !important;
+}
+#SECTION_POPUP .ladi-container > div.ladi-element {
+  display: none !important;
+  opacity: 0;
+  pointer-events: none;
+}
+.no-cursor {
+  pointer-events: none !important;
+}
+.swal2-popup .btn {
+  margin: .3125em;
+  padding: .625em 1.1em;
+  transition: box-shadow .1s;
+  box-shadow: 0 0 0 3px transparent;
+  font-weight: 500;
+}
+.swal2-popup .btn-success {
+  border: 0;
+  border-radius: .25em;
+  background: #7066e0;
+  color: #fff;
+  font-size: 1em;
+}
+.swal2-popup .btn-danger {
+  border: 0;
+  border-radius: .25em;
+  background: #6e7881;
+  color: #fff;
+  font-size: 1em;
+}
